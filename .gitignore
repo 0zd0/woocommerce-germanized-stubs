@@ -4,3 +4,4 @@
 .idea
 
 source/woocommerce-germanized/*
+!source/woocommerce-germanized/.gitkeep
